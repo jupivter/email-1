@@ -1,0 +1,13 @@
+spring:
+  mail:
+    host: smtp.sendgrid.net
+    port: 587
+    username: develhopeesercizio@gmail.com
+    password: lexadeservedbetter
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+apiKey : "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"
